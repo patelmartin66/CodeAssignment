@@ -1,0 +1,11 @@
+1)fill in the all the madatory fields values like name,email,subject,message and validate the success message "your message was sent successfully.Thanks"
+2)fill in the data for madatory and optional fields and validate the success message "your message was sent successfully.Thanks"
+3)skip the data for the madatory fields and validate the error message "Please fill in the required field"
+4)Validate the logo text available in the page
+5)validate the page redirection for home ,search and contactus  sections in the menubar as well as the buttons
+6)validate the default text dispalyed for all the filds like email,nae,phone,office and message
+7)validate the minimum length for the input fields
+8)validate the maximum length for the input fields
+9)validate the format for the email field to be name@domain.com
+10)validate the format for the phone number
+11)submit the same data which is submitted earlier
